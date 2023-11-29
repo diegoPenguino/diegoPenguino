@@ -55,7 +55,7 @@ Currently also Organizer and Problem Setter for the Bolivian Olympiad in Informa
 </div>
 
 ### Not an expert, but I know the basics:
-
+<div>
 <img src="https://img.shields.io/badge/-Java-%23FF6F00?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 10px">
 <img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="border-radius: 10px">
 <img src="https://img.shields.io/badge/-PySpark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" style="border-radius: 10px">
@@ -64,8 +64,10 @@ Currently also Organizer and Problem Setter for the Bolivian Olympiad in Informa
 <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 10px">
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" style="border-radius: 10px">
 <img src="https://img.shields.io/badge/-MiniZinc-%23000000?style=for-the-badge&logo=minizinc&logoColor=white" style="border-radius: 10px">
-
+</div>
 
 ### Currently learning:
+<div>
 <img src="https://img.shields.io/badge/-PowerBI-%23F2C811?style=for-the-badge&logo=power-bi&logoColor=white" style="border-radius: 10px">
 <img src="https://img.shields.io/badge/-FastAPI-%23000000?style=for-the-badge&logo=fastapi&logoColor=white" style="border-radius: 10px">
+</div>
