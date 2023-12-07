@@ -68,6 +68,6 @@ Currently also Organizer and Problem Setter for the Bolivian Olympiad in Informa
 
 ### Currently learning:
 <div>
-<img src="https://img.shields.io/badge/-PowerBI-%23F2C811?style=for-the-badge&logo=power-bi&logoColor=white" style="border-radius: 10px">
-<img src="https://img.shields.io/badge/-FastAPI-%23000000?style=for-the-badge&logo=fastapi&logoColor=white" style="border-radius: 10px">
+<img src="https://img.shields.io/badge/-Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white" style="border-radius: 10px">
+<img src="https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" style="border-radius: 10px">
 </div>
