@@ -1,4 +1,4 @@
-##  Hello, I am Diego 🤙
+##  Hello, I am Diego 🤙 (This is not updated, last update 2023(?))
 
 I am a Computer Science student at [MIPT](https://mipt.ru/english/). About to graduate in July, 2024.<br>
 I am interested in Machine Learning, Data Science, and Sofware Development, absolutely inlove with all we can achieve using technology.<br>
